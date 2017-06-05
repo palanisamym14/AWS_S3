@@ -6,7 +6,7 @@ import os.path
 import sys
 
 # Fill these in - you get them when you sign up for S3
-AWS_ACCESS_KEY_ID = 'acces_key'
+AWS_ACCESS_KEY_ID = 'access_key'
 AWS_ACCESS_KEY_SECRET = 'secret_key'
 # Fill in info on data to upload
 # destination bucket name
